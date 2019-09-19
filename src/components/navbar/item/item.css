@@ -1,0 +1,13 @@
+/* .top-menu-item:hover {
+  border-radius: 10px;
+} */
+
+.top-menu-text a {
+  font-size: 18px;
+  font-weight: 300;
+  color: black
+}
+
+a:hover{
+  color: #3899ec;
+}
